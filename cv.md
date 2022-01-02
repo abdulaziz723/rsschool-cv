@@ -41,4 +41,4 @@ My full name is Oqilov Abdulaziz. I am 21 years old. I love technolgies and comp
 ***
 ## Languages
 * Russian - Intermediate
-* English - Elementry
+* English - Elementr
