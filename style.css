@@ -216,7 +216,7 @@ html {
 
 .footer {
   width: 100%;
-  height: 20vh;
+  height: 30vh;
   background-color: #000;
   display: flex;
   align-items: center;
@@ -258,4 +258,22 @@ html {
 
 .footer-links > li > a > i:hover {
   transform: translateY(-8px);
+}
+
+.footer-links > li > a > img {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background-color: #fff;
+}
+
+.footer-links > li > a > img:hover {
+  transform: translateY(-8px);
+}
+
+.rss {
+  text-align: center;
+  line-height: 40px;
+  margin-right: 180px;
 }
